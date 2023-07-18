@@ -8,7 +8,7 @@ Abra o terminal na pasta do projeto e execute o comando:
 
 ### `npm install`
 
-## Para iniciar o API Mokada
+## Para iniciar a API Mokada
 
 Abra o terminal na pasta do projeto e execute o comando:
 
